@@ -1,0 +1,14 @@
+/* Core styles */
+*{box-sizing:border-box}img{max-width:100%;height:auto}ul{padding-left:20px}blockquote{border-left:4px solid #58a6ff;padding-left:12px;color:#8b949e}
+nav a.active{color:#58a6ff}
+.content h1,.content h2,.content h3{scroll-margin-top:90px}
+.content h2{margin-top:26px}
+.content ul li{margin:6px 0}
+.content a{text-decoration:none}
+.content a:hover{text-decoration:underline}
+.repo-grid .repo{transition:transform .15s ease, border-color .15s ease}
+.repo-grid .repo:hover{transform:translateY(-2px);border-color:#58a6ff}
+@media (max-width:600px){
+  .title{font-size:32px}
+  nav .container{gap:10px}
+}
