@@ -1,0 +1,13 @@
+{
+  "tiles": [
+    { "name": "pronit.in", "url": "https://pronit.in", "one": "TARDIS Solutions — the company face." },
+    { "name": "work.pronit.in", "url": "https://work.pronit.in", "one": "Personal portfolio of Pronit Das." },
+    { "name": "navratna.pronit.in", "url": "https://navratna.pronit.in", "one": "Multi-agent orchestration roadmap." },
+    { "name": "atlas.pronit.in", "url": "https://atlas.pronit.in", "one": "India-first GeoAI atlas." },
+    { "name": "dreams.pronit.in", "url": "https://dreams.pronit.in", "one": "Nidra — overnight research intelligence." },
+    { "name": "mirror.pronit.in", "url": "https://mirror.pronit.in", "one": "Daily news digest, scored and ranked." },
+    { "name": "leads.pronit.in", "url": "https://leads.pronit.in", "one": "CRM, deal flow, sales ops." },
+    { "name": "insta.pronit.in", "url": "https://insta.pronit.in", "one": "Instagram agent, scheduled posts." },
+    { "name": "stocks.pronit.in", "url": "https://stocks.pronit.in", "one": "Cross-market predictive screener." }
+  ]
+}
